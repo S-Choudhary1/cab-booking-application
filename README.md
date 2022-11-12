@@ -1,6 +1,7 @@
 # cab-booking-application
 
 This is a Cap booking application where you can book cab from list of available cabs.
+Spring boot ,junit and in-memory data-structure(List and Maps)
 
 These are endpoints:-
 1-createUser
