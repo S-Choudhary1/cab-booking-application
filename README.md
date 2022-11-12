@@ -46,4 +46,3 @@ These are endpoints:-
     "destX": 20,
     "destY": 20
  }
-
